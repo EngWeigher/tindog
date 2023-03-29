@@ -1,0 +1,191 @@
+body {
+  font-family: "Montserrat"
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+#x {
+  font-weight: bold;
+  font-size: 50px;
+}
+#title {
+  background-color: #ff4c68;
+}
+#tindog {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#conpd {
+  padding-right: 5px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+}
+
+#nav {
+  padding-bottom: 55px;
+}
+
+#container {
+  padding: 3% 15% 7%;
+
+}
+
+#buttons {
+  padding-top: 40px;
+}
+
+#first_dog {
+  width: 60%;
+  transform: rotate(26deg);
+  position: absolute;
+  left: 60px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+h1 {
+  font-size: 6rem;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  color: white;
+  padding-bottom: 30px;
+
+}
+
+#container_two {
+  padding: 7% 15%;
+}
+#features {
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+#feature_one {
+  text-align: center;
+  padding: 5%;
+}
+
+#feature_two {
+  text-align: center;
+  padding: 5%;
+}
+
+
+#feature_three {
+  text-align: center;
+  padding: 5%;
+}
+
+
+#zus_üç {
+  padding-bottom: 20px;
+}
+
+#zus_iki {
+  padding-bottom: 20px;
+}
+
+#zus_bir {
+  padding-bottom: 20px;
+}
+
+#dog {
+  font-size: 3rem;
+  line-height:  1.5;
+  font-weight: bold;
+}
+
+#dog_2 {
+  font-size: 3rem;
+  line-height:  1.5;
+  font-weight: bold;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#testimonial_image {
+ width: 15%;
+ border-radius: 90%;
+ margin: 20px;
+}
+#testimonial_image_2 {
+ width: 15%;
+ border-radius: 90%;
+ margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.adana {
+  width: 200px;
+  padding: 20px 20px 50px;
+}
+
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  #first_dog {
+    position: static;
+    transform: rotate(0);
+    padding-top: 50px;
+  }
+}
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 8%  15%;
+}
+
+.bebek {
+  color: #fff;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#bebelek {
+  padding-bottom: 30px;
+}
+
+#footer {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.zuszus {
+  padding: 7px;
+}
